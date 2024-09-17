@@ -1,8 +1,0 @@
-div.nav-file-title {
-  justify-content: flex-end;
-  flow-direction: row-reverse;
-}
-
-div.nav-file-title > div.nav-file-tag {
-  margin-right: 0.5em;
-}
